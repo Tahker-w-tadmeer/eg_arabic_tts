@@ -2,7 +2,9 @@
 
 ## TTS Arabic PyTorch
 We used the pre-trained model and the architecture provided here.
-We also tested our model output using the run file we created
+
+We also tested our model output using the run file we created.
+
 [TTS Arabic PyTorch repo](https://github.com/Fadi-S/tts-arabic-pytorch)
 
 ## Notbook
