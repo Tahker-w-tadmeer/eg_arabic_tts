@@ -1,5 +1,10 @@
 # Egyptian Arabic TTS
 
+## TTS Arabic PyTorch
+We used the pre-trained model and the architecture provided here.
+We also tested our model output using the run file we created
+[TTS Arabic PyTorch repo](https://github.com/Fadi-S/tts-arabic-pytorch)
+
 ## Notbook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11UcI7-_EJXkscygZugwl5ayCtSwzCCfe?usp=drive_link)
 
